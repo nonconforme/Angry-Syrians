@@ -49,6 +49,8 @@ I would also love improving the way the High Score is computed because it's real
 
 I'm also open to any contributions on this project. All my code is copy-left so feel free to steal it (GPL v3).
 
+// Note : Sorry about the PSDs, GIMP files next time, I promise
+
 Like Jobs said 
 > Good Artists Copy, Great Artists Steal
 
@@ -57,7 +59,7 @@ Like Jobs said
 
 I would like to thank a few people that without knowing it are contributing to the success of this project.
 
-* Music :  [Thirteen Senses](http://www.youtube.com/watch?v=VFroDCsVCeY) via [omarkobassam](http://www.youtube.com/watch?v=iHOLXEzuWfg)
+* Music :  [Big Skapinsky](http://soundcloud.com/big-skapinsky/)
 
 * Artwork : [osamahajjaj](http://osamahajjaj.com/en/)
 
