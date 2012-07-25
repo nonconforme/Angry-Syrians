@@ -2,11 +2,7 @@
 //  RootViewController.m
 //
 //  Created by Frederic Jacobs on 14/4/12.
-//  Copyleft !!! 
-//
-//
-// RootViewController + iAd
-// If you want to support iAd, use this class as the controller of your iAd
+//  GPL v3 -- http://www.gnu.org/copyleft/gpl.html
 //
 
 #import "cocos2d.h"

@@ -2,7 +2,7 @@
 //  GrenadeGameAppDelegate.m
 //
 //  Created by Frederic Jacobs on 14/4/12.
-//  Copyleft !!! 
+//  GPL v3 -- http://www.gnu.org/copyleft/gpl.html
 //
 
 #import "cocos2d.h"
@@ -85,7 +85,7 @@
 	window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     
     NSURL *url = [NSURL fileURLWithPath:[[NSBundle mainBundle]
-                                         pathForResource:@"ThirteenSenses-IntoTheFire"
+                                         pathForResource:@"Evolusic"
                                          ofType:@"m4a"]];
     
     NSError *error;

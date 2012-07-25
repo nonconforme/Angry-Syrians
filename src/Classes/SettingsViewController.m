@@ -2,8 +2,8 @@
 //  SettingsViewController.m
 //  Angry Syrians
 //
-//  Created by Frederic Jacobs on 14/04/12.
-//  Copyright (c) 2012 Evolucix. All rights reserved.
+//  Created by Frederic Jacobs on 14/4/12.
+//  GPL v3 -- http://www.gnu.org/copyleft/gpl.html
 //
 
 #import "SettingsViewController.h"

@@ -47,7 +47,7 @@ I would love writing a small "Get Started" software to turn anything in an Angry
 
 I would also love improving the way the High Score is computed because it's really buggy right now.
 
-I'm also open to any contributions on this project. All my code is copy-left so feel free to steal it.
+I'm also open to any contributions on this project. All my code is copy-left so feel free to steal it (GPL v3).
 
 Like Jobs said 
 > Good Artists Copy, Great Artists Steal
