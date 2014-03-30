@@ -51,7 +51,7 @@ I'm also open to any contributions on this project. All my code is copy-left so 
 
 // Note : Sorry about the PSDs, GIMP files next time, I promise
 
-Like Jobs said 
+Like ~~Jobs~~ Picasso said 
 > Good Artists Copy, Great Artists Steal
 
 
